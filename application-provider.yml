@@ -7,7 +7,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
   application:
-    name: microservice-provider
+    name: microservice-provider-bus
 
 server:
   port: 8888
